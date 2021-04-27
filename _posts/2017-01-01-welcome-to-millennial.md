@@ -4,7 +4,7 @@ title: "first steps"
 author: "tess.rieder"
 categories: documentation
 tags: [documentation,sample]
-image: artbreedr_experiment2.html
+image: scan_larva_meshmixer1.jpg
 ---
 
 Am Anfang steht für mich das experimentieren im Vordergrund, ich will mich mit den neuen Programen und Prozessen auseinandersetzen, die ich wärend des theoretischen Teils meiner Arbeit gefunden habe.Dinge wie Spark AR Studio, Runnway und 3D scans werden Fokus meines schaffens. 
